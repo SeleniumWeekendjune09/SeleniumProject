@@ -1,0 +1,23 @@
+
+<suite name="Suite"  parallel="tests">
+  
+  <test name="Test">
+    <classes>
+      <class name="satday_24.Implicit_wait"/>
+      <class name="satday_24.Mouse_Move"/>
+      <class name="satday_24.Upload_File_Robot"/>
+    </classes>
+  </test> 
+  
+  <test name="Test2">
+    <classes>
+      <class name="Sunday18_TestNG.CheckBox_testing"/>
+      
+    </classes>
+  </test> 
+  
+  
+  
+  
+</suite> 
+

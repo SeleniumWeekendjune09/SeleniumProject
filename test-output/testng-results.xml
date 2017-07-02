@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60693" started-at="2017-07-01T11:09:06Z" finished-at="2017-07-01T11:10:06Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="32276" started-at="2017-07-01T11:09:06Z" finished-at="2017-07-01T11:09:38Z">
+      <class name="Sunday18_TestNG.CheckBox_testing">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Sunday18_TestNG.CheckBox_testing@116f2e6]" name="beforeMethod" is-config="true" duration-ms="31878" started-at="2017-07-01T16:39:06Z" finished-at="2017-07-01T16:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Sunday18_TestNG.CheckBox_testing@116f2e6]" name="f" duration-ms="363" started-at="2017-07-01T16:39:37Z" finished-at="2017-07-01T16:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Sunday18_TestNG.CheckBox_testing -->
+    </test> <!-- Test2 -->
+    <test name="Test" duration-ms="60693" started-at="2017-07-01T11:09:06Z" finished-at="2017-07-01T11:10:06Z">
+      <class name="satday_24.Mouse_Move">
+        <test-method status="PASS" signature="f()[pri:0, instance:satday_24.Mouse_Move@1fa12f6]" name="f" duration-ms="5447" started-at="2017-07-01T16:39:40Z" finished-at="2017-07-01T16:39:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- satday_24.Mouse_Move -->
+      <class name="satday_24.Upload_File_Robot">
+        <test-method status="PASS" signature="f()[pri:0, instance:satday_24.Upload_File_Robot@f30093]" name="f" duration-ms="21142" started-at="2017-07-01T16:39:45Z" finished-at="2017-07-01T16:40:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- satday_24.Upload_File_Robot -->
+      <class name="satday_24.Implicit_wait">
+        <test-method status="PASS" signature="f()[pri:0, instance:satday_24.Implicit_wait@dd3147]" name="f" duration-ms="34064" started-at="2017-07-01T16:39:06Z" finished-at="2017-07-01T16:39:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- satday_24.Implicit_wait -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

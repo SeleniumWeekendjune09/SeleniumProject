@@ -1,0 +1,19 @@
+
+
+<suite name="Suite">
+  
+  <test name="Test">
+    <classes>
+      
+      <class name="Sunday18_TestNG.NewTest123">
+      
+      	<methods>
+        <include name="fg" />
+        <include name="cd" />
+      </methods>
+      </class>
+      
+    </classes>
+  </test> 
+  
+ </suite>
